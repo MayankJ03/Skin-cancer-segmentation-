@@ -69,7 +69,7 @@ Metric monitored: `Dice Coefficient`, `Precision`, and `Recall`
 ## 🙋‍♂️ Author
 
 **Mayank Jain**  
-📧 [mayank.jain2021@vitstudent.ac.in](mailto:mayank.jain2021@vitstudent.ac.in)  
+📧 [jmayank028@gmail.com](mailto:jmayank028@gmail.com)  
 🌐 [GitHub Profile](https://github.com/MayankJ03)
 
 ---
